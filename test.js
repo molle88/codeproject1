@@ -1,1 +1,1 @@
-console.log("Hejsan från develop!");
+console.log("Hejsan!");
